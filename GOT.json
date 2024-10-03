@@ -1,0 +1,2615 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What is the sigil of House Stark?",
+        "correct_answer": "A direwolf",
+        "incorrect_answers": [
+            "A lion",
+            "A dragon",
+            "A stag"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What is the name of Jon Snow’s sword?",
+        "correct_answer": "Longclaw",
+        "incorrect_answers": [
+            "Ice",
+            "Needle",
+            "Oathkeeper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Who pushed Bran out of the window?",
+        "correct_answer": "Jaime Lannister",
+        "incorrect_answers": [
+            "Cersei Lannister",
+            "The Hound",
+            "The Mountain"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "How many children does Ned Stark have?",
+        "correct_answer": "Five",
+        "incorrect_answers": [
+            "Three",
+            "Four",
+            "Six"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Name one of Daenerys Targaryen’s dragons.",
+        "correct_answer": "Drogon",
+        "incorrect_answers": [
+            "Viserion",
+            "Rhaegal",
+            "Balerion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What is the name of Jon’s direwolf?",
+        "correct_answer": "Ghost",
+        "incorrect_answers": [
+            "Nymeria",
+            "Summer",
+            "Grey Wind"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Who said “A mind needs books like a sword needs a whetstone”?",
+        "correct_answer": "Tyrion Lannister",
+        "incorrect_answers": [
+            "Jaime Lannister",
+            "Ned Stark",
+            "Samwell Tarly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What is Jamie Lannister's nickname?",
+        "correct_answer": "Kingslayer",
+        "incorrect_answers": [
+            "Kingsguard",
+            "Kingsman",
+            "Kingsbane"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "King Robert got injured hunting which animal?",
+        "correct_answer": "A boar",
+        "incorrect_answers": [
+            "A deer",
+            "A wolf",
+            "A bear"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the Night’s Watch headquarters?",
+        "correct_answer": "Castle Black",
+        "incorrect_answers": [
+            "Winterfell",
+            "The Eyrie",
+            "Dragonstone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who is Arya’s ‘dance’ instructor?",
+        "correct_answer": "Syrio Forel",
+        "incorrect_answers": [
+            "Jaqen H'ghar",
+            "Sandor Clegane",
+            "Brienne of Tarth"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where was Jon born?",
+        "correct_answer": "The Tower of Joy",
+        "incorrect_answers": [
+            "Winterfell",
+            "Dragonstone",
+            "King's Landing"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What do we say to the Lord of Death?",
+        "correct_answer": "Not today",
+        "incorrect_answers": [
+            "Tomorrow",
+            "Never",
+            "Always"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Why was Jorah Mormont exiled by Ned Stark?",
+        "correct_answer": "For selling slaves",
+        "incorrect_answers": [
+            "For treason",
+            "For murder",
+            "For desertion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which Knight is known as the Sword of the Morning?",
+        "correct_answer": "Ser Arthur Dayne",
+        "incorrect_answers": [
+            "Ser Barristan Selmy",
+            "Ser Jaime Lannister",
+            "Ser Bronn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What European city was used for filming King’s Landing?",
+        "correct_answer": "Dubrovnik",
+        "incorrect_answers": [
+            "Barcelona",
+            "Athens",
+            "Rome"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is Gendry’s weapon of choice?",
+        "correct_answer": "A hammer",
+        "incorrect_answers": [
+            "A sword",
+            "A bow",
+            "An axe"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where in King’s Landing are Gendry and Ser Davos Seaworth from?",
+        "correct_answer": "Flea Bottom",
+        "incorrect_answers": [
+            "The Red Keep",
+            "The Great Sept",
+            "The Dragonpit"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What song plays during the Red Wedding?",
+        "correct_answer": "The Rains of Castamere",
+        "incorrect_answers": [
+            "The Bear and the Maiden Fair",
+            "The Dornishman's Wife",
+            "The Last of the Giants"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who built the wall?",
+        "correct_answer": "Bran the Builder",
+        "incorrect_answers": [
+            "Aegon the Conqueror",
+            "Maegor the Cruel",
+            "Torrhen Stark"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What is the motto of House Tully?",
+        "correct_answer": "Family, Duty, Honor",
+        "incorrect_answers": [
+            "Fire and Blood",
+            "Winter is Coming",
+            "Hear Me Roar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What is Hodor’s real name?",
+        "correct_answer": "Wylis",
+        "incorrect_answers": [
+            "Walder",
+            "Willis",
+            "Wyman"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Who is the Giant who dies fighting for Castle Black?",
+        "correct_answer": "Wun Wun",
+        "incorrect_answers": [
+            "Mag the Mighty",
+            "Dongo",
+            "Tormund"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "How many different actors played The Mountain (Ser Gregor Clegane)?",
+        "correct_answer": "Three",
+        "incorrect_answers": [
+            "Two",
+            "Four",
+            "Five"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Who composed the music for Game of Thrones?",
+        "correct_answer": "Ramin Djawadi",
+        "incorrect_answers": [
+            "Hans Zimmer",
+            "John Williams",
+            "Howard Shore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Who says “Chaos isn't a pit. Chaos is a ladder”?",
+        "correct_answer": "Petyr Baelish",
+        "incorrect_answers": [
+            "Varys",
+            "Tyrion Lannister",
+            "Cersei Lannister"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "The High Sparrow reestablished what military order?",
+        "correct_answer": "The Faith Militant",
+        "incorrect_answers": [
+            "The Night's Watch",
+            "The Kingsguard",
+            "The Unsullied"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Where is Varys originally from?",
+        "correct_answer": "Lys",
+        "incorrect_answers": [
+            "Pentos",
+            "Braavos",
+            "Meereen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What does Valar Morghulis mean?",
+        "correct_answer": "All men must die",
+        "incorrect_answers": [
+            "All men must serve",
+            "All men must fight",
+            "All men must live"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What landmass is Westeros when turned upside down?",
+        "correct_answer": "Ireland",
+        "incorrect_answers": [
+            "Scotland",
+            "England",
+            "Wales"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Who owned the famous Starbucks cup?",
+        "correct_answer": "Daenerys Targaryen",
+        "incorrect_answers": [
+            "Jon Snow",
+            "Tyrion Lannister",
+            "Sansa Stark"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the sword given to Brienne by Jaime?",
+        "correct_answer": "Oathkeeper",
+        "incorrect_answers": [
+            "Widow's Wail",
+            "Ice",
+            "Longclaw"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Who was the last Targaryen to sit on the Iron Throne before Daenerys?",
+        "correct_answer": "Aerys II Targaryen",
+        "incorrect_answers": [
+            "Rhaegar Targaryen",
+            "Viserys Targaryen",
+            "Aegon V Targaryen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the giant dragon skull in the Red Keep?",
+        "correct_answer": "Balerion",
+        "incorrect_answers": [
+            "Drogon",
+            "Viserion",
+            "Rhaegal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Who was the first character to be killed in the series?",
+        "correct_answer": "Waymar Royce",
+        "incorrect_answers": [
+            "Ned Stark",
+            "Jon Arryn",
+            "Khal Drogo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the poison used to kill Joffrey?",
+        "correct_answer": "The Strangler",
+        "incorrect_answers": [
+            "Widow's Blood",
+            "Basilisk Venom",
+            "Tears of Lys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Who was responsible for the creation of the Night King?",
+        "correct_answer": "The Children of the Forest",
+        "incorrect_answers": [
+            "The First Men",
+            "The White Walkers",
+            "The Andals"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the ancestral home of House Targaryen?",
+        "correct_answer": "Dragonstone",
+        "incorrect_answers": [
+            "King's Landing",
+            "Storm's End",
+            "Harrenhal"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "Who was the leader of the Second Sons?",
+        "correct_answer": "Daario Naharis",
+        "incorrect_answers": [
+            "Jorah Mormont",
+            "Grey Worm",
+            "Khal Drogo"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the sword wielded by Beric Dondarrion?",
+        "correct_answer": "Flaming Sword",
+        "incorrect_answers": [
+            "Lightbringer",
+            "Dark Sister",
+            "Blackfyre"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What clan are referred to as 'screamers' as an insult?",
+        "correct_answer": "Dothraki",
+        "incorrect_answers": [
+            "Lannister",
+            "Stark",
+            "Greyjoy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What was in the wedding pie at King Joffrey's wedding?",
+        "correct_answer": "Doves",
+        "incorrect_answers": [
+            "Pigeons",
+            "Ravens",
+            "Sparrows"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "On the TV show 'Game of Thrones', who is Cersei's daughter?",
+        "correct_answer": "Myrcella",
+        "incorrect_answers": [
+            "Sansa",
+            "Arya",
+            "Daenerys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House's motto is 'We Do Not Sow'?",
+        "correct_answer": "Greyjoy",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who is Theon Greyjoy's sister?",
+        "correct_answer": "Yara",
+        "incorrect_answers": [
+            "Sansa",
+            "Arya",
+            "Brienne"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is Illyrio Mopatis' title?",
+        "correct_answer": "Magister",
+        "incorrect_answers": [
+            "Lord",
+            "King",
+            "Prince"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What clan are referred to as 'horselords'?",
+        "correct_answer": "Dothraki",
+        "incorrect_answers": [
+            "Lannister",
+            "Stark",
+            "Greyjoy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House has the motto 'As High As Honor'?",
+        "correct_answer": "Arryn",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "On the TV show 'Game of Thrones', Brienne is from what House?",
+        "correct_answer": "Tarth",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House is located in Brightwater Keep?",
+        "correct_answer": "Florent",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Daario Naharis is from where?",
+        "correct_answer": "Tyrosh",
+        "incorrect_answers": [
+            "Braavos",
+            "Pentos",
+            "Meereen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "On the TV show 'Game of Thrones', who did Jon Snow fall in love with from north of The Wall?",
+        "correct_answer": "Ygritte",
+        "incorrect_answers": [
+            "Sansa",
+            "Arya",
+            "Daenerys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who said, 'It's not easy being drunk all the time. If it were easy, everyone would do it'?",
+        "correct_answer": "Tyrion",
+        "incorrect_answers": [
+            "Jaime",
+            "Cersei",
+            "Robert"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What name is given to bastards born on the Iron Islands?",
+        "correct_answer": "Pyke",
+        "incorrect_answers": [
+            "Snow",
+            "Sand",
+            "Stone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who's sword is called 'Needle'?",
+        "correct_answer": "Arya",
+        "incorrect_answers": [
+            "Jon",
+            "Brienne",
+            "Jaime"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who named their direwolf after the Rhoynar Warrior Queen?",
+        "correct_answer": "Arya",
+        "incorrect_answers": [
+            "Jon",
+            "Sansa",
+            "Bran"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who promised Tywin that she could marry Prince Rhaegar?",
+        "correct_answer": "Elia Martell",
+        "incorrect_answers": [
+            "Cersei",
+            "Lyanna Stark",
+            "Margaery Tyrell"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules the Kingdom of the North?",
+        "correct_answer": "Stark",
+        "incorrect_answers": [
+            "Lannister",
+            "Baratheon",
+            "Greyjoy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules The Reach?",
+        "correct_answer": "Tyrell",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules The Riverlands?",
+        "correct_answer": "Tully",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules Dorne?",
+        "correct_answer": "Martell",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Bran the Builder founded which House?",
+        "correct_answer": "Stark",
+        "incorrect_answers": [
+            "Lannister",
+            "Baratheon",
+            "Greyjoy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The Lords of Arbor are from what House?",
+        "correct_answer": "Redwyne",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who killed off House Reyne and House Tarbeck for rebelling against Father Tytos?",
+        "correct_answer": "Tywin",
+        "incorrect_answers": [
+            "Jaime",
+            "Robert",
+            "Stannis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who is Eddard Stark's brother?",
+        "correct_answer": "Brandon",
+        "incorrect_answers": [
+            "Benjen",
+            "Robert",
+            "Renly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Catelyn is from what House?",
+        "correct_answer": "Tully",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Loras Tyrell is known as the Knight of what?",
+        "correct_answer": "Flowers",
+        "incorrect_answers": [
+            "Thorns",
+            "Roses",
+            "Lilies"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who had five children with Eddard Stark?",
+        "correct_answer": "Catelyn",
+        "incorrect_answers": [
+            "Lyanna",
+            "Cersei",
+            "Margaery"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Peter Dinklage plays what role on 'Game of Thrones'?",
+        "correct_answer": "Tyrion",
+        "incorrect_answers": [
+            "Jaime",
+            "Jon",
+            "Joffrey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What game company produced an official video game version of 'Game of Thrones'?",
+        "correct_answer": "Telltale",
+        "incorrect_answers": [
+            "EA",
+            "Ubisoft",
+            "Rockstar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where was Robb Stark born?",
+        "correct_answer": "Riverrun",
+        "incorrect_answers": [
+            "Winterfell",
+            "King's Landing",
+            "Dragonstone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Sunspear is the stronghold of what House?",
+        "correct_answer": "Martell",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Strong Belwas was trained in what city?",
+        "correct_answer": "Meereen",
+        "incorrect_answers": [
+            "Astapor",
+            "Yunkai",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Illyrio Mopatis lives in what city?",
+        "correct_answer": "Pentos",
+        "incorrect_answers": [
+            "Braavos",
+            "Qarth",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Braavos was founded just to hide what family?",
+        "correct_answer": "Valyrian",
+        "incorrect_answers": [
+            "Targaryen",
+            "Lannister",
+            "Stark"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The Dothraki live in what land?",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+            "Westeros",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the oldest city in Westeros?",
+        "correct_answer": "Oldtown",
+        "incorrect_answers": [
+            "King's Landing",
+            "Winterfell",
+            "Lannisport"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What city do people in Westeros call R'hllor 'the Red God'?",
+        "correct_answer": "Westeros",
+        "incorrect_answers": [
+            "Essos",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The House Florent is the main rival of what House?",
+        "correct_answer": "Tyrell",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Illyrio Mopatis' title is what?",
+        "correct_answer": "Magister",
+        "incorrect_answers": [
+            "Lord",
+            "King",
+            "Prince"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The House Lannister is the leading House of what location?",
+        "correct_answer": "Westeros",
+        "incorrect_answers": [
+            "Essos",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The Marsh King rules what area?",
+        "correct_answer": "The Neck",
+        "incorrect_answers": [
+            "The Vale",
+            "The Reach",
+            "The Riverlands"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The House Targaryen originally came from what land?",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+            "Westeros",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The pirate Sallador Saan is from what free city?",
+        "correct_answer": "Lys",
+        "incorrect_answers": [
+            "Braavos",
+            "Pentos",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Thoros is a red priest from what city?",
+        "correct_answer": "Myr",
+        "incorrect_answers": [
+            "Braavos",
+            "Pentos",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What area is also known as The Shadow Lands?",
+        "correct_answer": "Asshai",
+        "incorrect_answers": [
+            "Qarth",
+            "Meereen",
+            "Yunkai"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where did Tyrion Lannister join the Second Sons?",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+            "Westeros",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where will you find the House of the Undying?",
+        "correct_answer": "Qarth",
+        "incorrect_answers": [
+            "Braavos",
+            "Pentos",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where did Jon Connington flee to after failing to defeat Robert in a rebellion?",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+            "Westeros",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Daenerys Targaryen has three children. These 'children' are actually what?",
+        "correct_answer": "Dragons",
+        "incorrect_answers": [
+            "Wolves",
+            "Lions",
+            "Bears"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the name of Eddard Stark's Valyrian Steel sword?",
+        "correct_answer": "Ice",
+        "incorrect_answers": [
+            "Longclaw",
+            "Oathkeeper",
+            "Widow's Wail"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What dragon forged the Iron Throne?",
+        "correct_answer": "Balerion",
+        "incorrect_answers": [
+            "Drogon",
+            "Rhaegal",
+            "Viserion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House has a gold kraken as its sigil?",
+        "correct_answer": "Greyjoy",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Missandei is whose translator?",
+        "correct_answer": "Daenerys",
+        "incorrect_answers": [
+            "Tyrion",
+            "Jon",
+            "Cersei"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who melted down the steel for Eddard Stark's Valyrian Steel sword?",
+        "correct_answer": "Tywin",
+        "incorrect_answers": [
+            "Jaime",
+            "Robert",
+            "Stannis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What clan are cannibals?",
+        "correct_answer": "Thenn",
+        "incorrect_answers": [
+            "Dothraki",
+            "Lannister",
+            "Stark"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Euron Greyjoy is the captain of what ship?",
+        "correct_answer": "Silence",
+        "incorrect_answers": [
+            "Iron Victory",
+            "Sea Bitch",
+            "Black Wind"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House took over The Neck?",
+        "correct_answer": "Stark",
+        "incorrect_answers": [
+            "Lannister",
+            "Baratheon",
+            "Greyjoy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Jorah Mormont's father helped him overtake what island?",
+        "correct_answer": "Bear",
+        "incorrect_answers": [
+            "Dragonstone",
+            "Pyke",
+            "Skagos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who captured Jorah Mormont?",
+        "correct_answer": "Tyrion",
+        "incorrect_answers": [
+            "Daenerys",
+            "Jon",
+            "Cersei"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who killed Viserys Targaryen?",
+        "correct_answer": "Drogo",
+        "incorrect_answers": [
+            "Daenerys",
+            "Jon",
+            "Tyrion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What name do those from Westeros have for people who live south of The Wall?",
+        "correct_answer": "Kneelers",
+        "incorrect_answers": [
+            "Wildlings",
+            "Free Folk",
+            "Crannogmen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House resisted the Andal invasion?",
+        "correct_answer": "Stark",
+        "incorrect_answers": [
+            "Lannister",
+            "Baratheon",
+            "Greyjoy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who is Eddard Stark's brother?",
+        "correct_answer": "Brandon",
+        "incorrect_answers": [
+            "Cersei",
+            "Robert",
+            "Renly"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Catelyn is from what House?",
+        "correct_answer": "Tully",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Loras Tyrell is known as the Knight of what?",
+        "correct_answer": "Flowers",
+        "incorrect_answers": [
+            "Thorns",
+            "Roses",
+            "Lilies"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who had five children with Eddard Stark?",
+        "correct_answer": "Catelyn",
+        "incorrect_answers": [
+            "Lyanna",
+            "Cersei",
+            "Margaery"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Peter Dinklage plays what role on 'Game of Thrones'?",
+        "correct_answer": "Tyrion",
+        "incorrect_answers": [
+            "Jaime",
+            "Jon",
+            "Joffrey"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What game company produced an official video game version of 'Game of Thrones'?",
+        "correct_answer": "Telltale",
+        "incorrect_answers": [
+            "EA",
+            "Ubisoft",
+            "Rockstar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where was Robb Stark born?",
+        "correct_answer": "Riverrun",
+        "incorrect_answers": [
+            "Winterfell",
+            "King's Landing",
+            "Dragonstone"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Sunspear is the stronghold of what House?",
+        "correct_answer": "Martell",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Strong Belwas was trained in what city?",
+        "correct_answer": "Meereen",
+        "incorrect_answers": [
+            "Astapor",
+            "Yunkai",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Illyrio Mopatis lives in what city?",
+        "correct_answer": "Pentos",
+        "incorrect_answers": [
+            "Braavos",
+            "Qarth",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Braavos was founded just to hide what family?",
+        "correct_answer": "Valyrian",
+        "incorrect_answers": [
+            "Targaryen",
+            "Lannister",
+            "Stark"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The Dothraki live in what land?",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+            "Westeros",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the oldest city in Westeros?",
+        "correct_answer": "Oldtown",
+        "incorrect_answers": [
+            "King's Landing",
+            "Winterfell",
+            "Lannisport"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What city do people in Westeros call R'hllor 'the Red God'?",
+        "correct_answer": "Westeros",
+        "incorrect_answers": [
+            "Essos",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The House Florent is the main rival of what House?",
+        "correct_answer": "Tyrell",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Illyrio Mopatis' title is what?",
+        "correct_answer": "Magister",
+        "incorrect_answers": [
+            "Lord",
+            "King",
+            "Prince"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The House Lannister is the leading House of what location?",
+        "correct_answer": "Westeros",
+        "incorrect_answers": [
+            "Essos",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The Marsh King rules what area?",
+        "correct_answer": "The Neck",
+        "incorrect_answers": [
+            "The Vale",
+            "The Reach",
+            "The Riverlands"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The House Targaryen originally came from what land?",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+            "Westeros",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The pirate Sallador Saan is from what free city?",
+        "correct_answer": "Lys",
+        "incorrect_answers": [
+            "Braavos",
+            "Pentos",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Thoros is a red priest from what city?",
+        "correct_answer": "Myr",
+        "incorrect_answers": [
+            "Braavos",
+            "Pentos",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What area is also known as The Shadow Lands?",
+        "correct_answer": "Asshai",
+        "incorrect_answers": [
+            "Qarth",
+            "Meereen",
+            "Yunkai"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where did Tyrion Lannister join the Second Sons?",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+            "Westeros",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where will you find the House of the Undying?",
+        "correct_answer": "Qarth",
+        "incorrect_answers": [
+            "Braavos",
+            "Pentos",
+            "Volantis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where did Jon Connington flee to after failing to defeat Robert in a rebellion?",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+            "Westeros",
+            "Sothoryos",
+            "Ulthos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Daenerys Targaryen has three children. These 'children' are actually what?",
+        "correct_answer": "Dragons",
+        "incorrect_answers": [
+            "Wolves",
+            "Lions",
+            "Bears"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the name of Eddard Stark's Valyrian Steel sword?",
+        "correct_answer": "Ice",
+        "incorrect_answers": [
+            "Longclaw",
+            "Oathkeeper",
+            "Widow's Wail"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What dragon forged the Iron Throne?",
+        "correct_answer": "Balerion",
+        "incorrect_answers": [
+            "Drogon",
+            "Rhaegal",
+            "Viserion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House has a gold kraken as its sigil?",
+        "correct_answer": "Greyjoy",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Missandei is whose translator?",
+        "correct_answer": "Daenerys",
+        "incorrect_answers": [
+            "Tyrion",
+            "Jon",
+            "Cersei"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who melted down the steel for Eddard Stark's Valyrian Steel sword?",
+        "correct_answer": "Tywin",
+        "incorrect_answers": [
+            "Jaime",
+            "Robert",
+            "Stannis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What clan are cannibals?",
+        "correct_answer": "Thenn",
+        "incorrect_answers": [
+            "Dothraki",
+            "Lannister",
+            "Stark"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Euron Greyjoy is the captain of what ship?",
+        "correct_answer": "Silence",
+        "incorrect_answers": [
+            "Iron Victory",
+            "Sea Bitch",
+            "Black Wind"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House took over The Neck?",
+        "correct_answer": "Stark",
+        "incorrect_answers": [
+            "Lannister",
+            "Baratheon",
+            "Greyjoy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Jorah Mormont's father helped him overtake what island?",
+        "correct_answer": "Bear",
+        "incorrect_answers": [
+            "Dragonstone",
+            "Pyke",
+            "Skagos"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who captured Jorah Mormont?",
+        "correct_answer": "Tyrion",
+        "incorrect_answers": [
+            "Daenerys",
+            "Jon",
+            "Cersei"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who killed Viserys Targaryen?",
+        "correct_answer": "Drogo",
+        "incorrect_answers": [
+            "Daenerys",
+            "Jon",
+            "Tyrion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What name do those from Westeros have for people who live south of The Wall?",
+        "correct_answer": "Kneelers",
+        "incorrect_answers": [
+            "Wildlings",
+            "Free Folk",
+            "Crannogmen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House resisted the Andal invasion?",
+        "correct_answer": "Stark",
+        "incorrect_answers": [
+            "Lannister",
+            "Baratheon",
+            "Greyjoy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who is Jorah Mormont's father?",
+        "correct_answer": "Jeor",
+        "incorrect_answers": [
+            "Benjen",
+            "Eddard",
+            "Robert"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House has the motto 'Fire and Blood'?",
+        "correct_answer": "Targaryen",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules the Kingdom of the Stormlands?",
+        "correct_answer": "House Baratheon",
+        "incorrect_answers": [
+            "House Stark",
+            "House Lannister",
+            "House Targaryen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules the Kingdom of the Rock?",
+        "correct_answer": "Lannister",
+        "incorrect_answers": [
+            "Stark",
+            "Baratheon",
+            "Targaryen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House's sigil has a crowned black stag on a golden field?",
+        "correct_answer": "Baratheon",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Targaryen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House has the motto 'Hear Me Roar'?",
+        "correct_answer": "Lannister",
+        "incorrect_answers": [
+            "Stark",
+            "Baratheon",
+            "Targaryen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules Storm's End?",
+        "correct_answer": "Baratheon",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Targaryen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House is the main rival of House Lannister?",
+        "correct_answer": "The Dreadfort",
+        "incorrect_answers": [
+            "Stark",
+            "Baratheon",
+            "Targaryen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House calls the castle Harrenhal home?",
+        "correct_answer": "House Bolton",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules the Kingdom of the Isles and Rivers?",
+        "correct_answer": "Hoare",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules the Kingdom of the Reach?",
+        "correct_answer": "Gardener",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House's sigil has a gold kraken?",
+        "correct_answer": "Greyjoy",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules Dorne?",
+        "correct_answer": "Martell",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House's sigil features a three-headed dragon?",
+        "correct_answer": "Targaryen",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What House rules The Riverlands?",
+        "correct_answer": "Tully",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who built the monument Harrenhal?",
+        "correct_answer": "Harren The Black",
+        "incorrect_answers": [
+            "Bran The Builder",
+            "Aegon The Conqueror",
+            "Robert Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who did Jeor Mormont join?",
+        "correct_answer": "Night's Watch",
+        "incorrect_answers": [
+            "Kingsguard",
+            "City Watch",
+            "Second Sons"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Ygritte met with Jon Snow while part of a wildling scouting party with whose band?",
+        "correct_answer": "Rattleshirt",
+        "incorrect_answers": [
+            "Tormund",
+            "Mance Rayder",
+            "Styr"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Which knight did Bronn defeat for Tyrion?",
+        "correct_answer": "Vardis Egen",
+        "incorrect_answers": [
+            "Loras Tyrell",
+            "Sandor Clegane",
+            "Gregor Clegane"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What Lord defended Eddard Stark and Robert Baratheon against the Mad King?",
+        "correct_answer": "Jon Arryn",
+        "incorrect_answers": [
+            "Tywin Lannister",
+            "Stannis Baratheon",
+            "Renly Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Evenfall Hall is part of what location?",
+        "correct_answer": "The Stormlands",
+        "incorrect_answers": [
+            "The Reach",
+            "The Riverlands",
+            "The Vale"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Davos Seaworth is known by what name?",
+        "correct_answer": "Onion Knight",
+        "incorrect_answers": [
+            "Kingslayer",
+            "Blackfish",
+            "Red Viper"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who became Lord of Bear Island after Ser Jorah Mormont?",
+        "correct_answer": "Maege Mormont",
+        "incorrect_answers": [
+            "Jeor Mormont",
+            "Lyanna Mormont",
+            "Jon Snow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What castle has a hall called The Hall of a Hundred Hearths?",
+        "correct_answer": "Harrenhal",
+        "incorrect_answers": [
+            "Winterfell",
+            "Dragonstone",
+            "Storm's End"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Jon Snow is a member of what group?",
+        "correct_answer": "Night's Watch",
+        "incorrect_answers": [
+            "Kingsguard",
+            "City Watch",
+            "Second Sons"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What’s the Valyrian Steel blade of Aegon the Conqueror?",
+        "correct_answer": "Blackfyre",
+        "incorrect_answers": [
+            "Dark Sister",
+            "Ice",
+            "Longclaw"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Daenerys was born into which family?",
+        "correct_answer": "Targaryen",
+        "incorrect_answers": [
+            "Stark",
+            "Lannister",
+            "Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "How many manned castles did the Night's Watch have at the height of its power?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "9"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where was Jorah Mormont captured?",
+        "correct_answer": "A Brother",
+        "incorrect_answers": [
+            "A Slave",
+            "A Knight",
+            "A Lord"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "On the TV show 'Game of Thrones', people with the surname Hill are bastards born in what castle?",
+        "correct_answer": "Casterly Rock",
+        "incorrect_answers": [
+            "Winterfell",
+            "Dragonstone",
+            "Storm's End"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What was the largest battle in the War of the Five Kings?",
+        "correct_answer": "Blackwater",
+        "incorrect_answers": [
+            "Battle of the Bastards",
+            "Battle of Winterfell",
+            "Battle of the Trident"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "How did Vargo Hoat prevent Roose Bolton from switching sides?",
+        "correct_answer": "Had Jaime's Hand Chopped Off",
+        "incorrect_answers": [
+            "Killed His Men",
+            "Took Him Hostage",
+            "Burned His Castle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Daniel Portman plays what role?",
+        "correct_answer": "Podrick Payne",
+        "incorrect_answers": [
+            "Gendry",
+            "Samwell Tarly",
+            "Jorah Mormont"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What group of soldiers are eunuchs?",
+        "correct_answer": "The Unsullied",
+        "incorrect_answers": [
+            "The Golden Company",
+            "The Second Sons",
+            "The Night's Watch"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who killed Brandon Stark?",
+        "correct_answer": "The Mad King",
+        "incorrect_answers": [
+            "Jaime Lannister",
+            "Roose Bolton",
+            "Ramsay Bolton"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who commissioned the Iron Throne?",
+        "correct_answer": "The Mad King",
+        "incorrect_answers": [
+            "Aegon the Conqueror",
+            "Robert Baratheon",
+            "Joffrey Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "How did King Balon die?",
+        "correct_answer": "Fell From A Bridge",
+        "incorrect_answers": [
+            "Poisoned",
+            "Stabbed",
+            "Drowned"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What sellsword organization was founded by the Great Bastard Bittersteel?",
+        "correct_answer": "The Golden Company",
+        "incorrect_answers": [
+            "The Second Sons",
+            "The Stormcrows",
+            "The Brave Companions"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What kind of wine is considered the finest in all of Westeros?",
+        "correct_answer": "Arbor Wine",
+        "incorrect_answers": [
+            "Dornish Red",
+            "Summerwine",
+            "Mead"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who took control of Casterly Rock?",
+        "correct_answer": "Lannisters",
+        "incorrect_answers": [
+            "Starks",
+            "Baratheons",
+            "Targaryens"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the chief religion of the Seven Kingdoms?",
+        "correct_answer": "Faith Of The Seven",
+        "incorrect_answers": [
+            "Old Gods",
+            "R'hllor",
+            "Drowned God"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "How old were Cersei and Jaime when Tyrion was born?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "6",
+            "10",
+            "12"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The City Watch of King's Landing is also called what?",
+        "correct_answer": "Gold Cloaks",
+        "incorrect_answers": [
+            "City Guard",
+            "Night's Watch",
+            "King's Guard"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is Arstan Whitebeard's real name?",
+        "correct_answer": "Ser Barristan Selmy",
+        "incorrect_answers": [
+            "Ser Jorah Mormont",
+            "Ser Davos Seaworth",
+            "Ser Jaime Lannister"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who performed a parody of the 'Game of Thrones' theme by adding words to the music at the Emmy Awards?",
+        "correct_answer": "Weird Al Yankovic",
+        "incorrect_answers": [
+            "Jimmy Fallon",
+            "Stephen Colbert",
+            "James Corden"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Mark Stanley portray?",
+        "correct_answer": "Grenn",
+        "incorrect_answers": [
+            "Pyp",
+            "Samwell Tarly",
+            "Eddison Tollett"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Lena Headey portray?",
+        "correct_answer": "Cersei",
+        "incorrect_answers": [
+            "Daenerys",
+            "Sansa",
+            "Arya"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Sibel Kekilli portray?",
+        "correct_answer": "Shae",
+        "incorrect_answers": [
+            "Missandei",
+            "Ygritte",
+            "Osha"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Natalia Tena portray?",
+        "correct_answer": "Osha",
+        "incorrect_answers": [
+            "Shae",
+            "Ygritte",
+            "Missandei"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Jerome Flynn portray?",
+        "correct_answer": "Bronn",
+        "incorrect_answers": [
+            "Jaime",
+            "Tyrion",
+            "The Hound"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Gwendoline Christie portray?",
+        "correct_answer": "Brienne",
+        "incorrect_answers": [
+            "Cersei",
+            "Sansa",
+            "Arya"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Sophie Turner portray?",
+        "correct_answer": "Sansa",
+        "incorrect_answers": [
+            "Arya",
+            "Cersei",
+            "Daenerys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Maisie Williams portray?",
+        "correct_answer": "Arya",
+        "incorrect_answers": [
+            "Sansa",
+            "Cersei",
+            "Daenerys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Kristian Nairn portray?",
+        "correct_answer": "Hodor",
+        "incorrect_answers": [
+            "Bran",
+            "Samwell",
+            "Grenn"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who does Michelle Fairley portray?",
+        "correct_answer": "Catelyn",
+        "incorrect_answers": [
+            "Cersei",
+            "Sansa",
+            "Daenerys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the name of the First Men's stronghold in the Neck in the North?",
+        "correct_answer": "Moat Cailin",
+        "incorrect_answers": [
+            "Winterfell",
+            "The Eyrie",
+            "Storm's End"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Where did the Children of the Forest make peace with the First Men?",
+        "correct_answer": "The Isle Of Faces",
+        "incorrect_answers": [
+            "Winterfell",
+            "The Eyrie",
+            "Storm's End"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The First Men allied themselves with whom to fight The Others?",
+        "correct_answer": "Children Of The Forest",
+        "incorrect_answers": [
+            "The Andals",
+            "The Rhoynar",
+            "The Valyrians"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who knighted Jaime Lannister?",
+        "correct_answer": "Arthur Dayne",
+        "incorrect_answers": [
+            "Barristan Selmy",
+            "Ned Stark",
+            "Robert Baratheon"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who taught Arya Stark how to swordfight?",
+        "correct_answer": "Syrio Forel",
+        "incorrect_answers": [
+            "Jon Snow",
+            "Ned Stark",
+            "Jaqen H'ghar"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "By what name do the Seven Kingdoms refer to the Free Folk who live in the north beyond the Wall?",
+        "correct_answer": "Wildlings",
+        "incorrect_answers": [
+            "Crannogmen",
+            "Ironborn",
+            "Mountain Clans"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What is the largest castle in Westeros?",
+        "correct_answer": "Harrenhal",
+        "incorrect_answers": [
+            "Winterfell",
+            "The Eyrie",
+            "Storm's End"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who is Daenerys' first husband?",
+        "correct_answer": "Khal Drogo",
+        "incorrect_answers": [
+            "Daario Naharis",
+            "Jorah Mormont",
+            "Jon Snow"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who is the King Beyond the Wall?",
+        "correct_answer": "Mance Rayder",
+        "incorrect_answers": [
+            "Tormund Giantsbane",
+            "Styr",
+            "Rattleshirt"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who are Nymeria's people?",
+        "correct_answer": "The Rhoynar",
+        "incorrect_answers": [
+            "The Andals",
+            "The First Men",
+            "The Valyrians"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "The Others are also known by what name?",
+        "correct_answer": "White Walkers",
+        "incorrect_answers": [
+            "Wights",
+            "Wildlings",
+            "Free Folk"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who killed Eddard Stark?",
+        "correct_answer": "Ser Ilyn Payne",
+        "incorrect_answers": [
+            "Joffrey Baratheon",
+            "Jaime Lannister",
+            "The Hound"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What lands in Westeros did the Golden Company overthrow the Lannisters?",
+        "correct_answer": "The Riverlands",
+        "incorrect_answers": [
+            "The Reach",
+            "The Stormlands",
+            "The Vale"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Rhaegar Targaryen defeated whom at the Tourney at Harrenhal?",
+        "correct_answer": "Ser Barristan Selmy",
+        "incorrect_answers": [
+            "Arthur Dayne",
+            "Robert Baratheon",
+            "Jaime Lannister"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "How many children did Elia Martell and Prince Rhaegar have together?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "1",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "How old was Bronn when he first killed someone?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "10",
+            "14",
+            "16"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who created the Kingsguard?",
+        "correct_answer": "Aegon",
+        "incorrect_answers": [
+            "Maegor",
+            "Jaehaerys",
+            "Viserys"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What magical item helps Mance appear at Rattleshirt's execution?",
+        "correct_answer": "Ruby",
+        "incorrect_answers": [
+            "Amulet",
+            "Ring",
+            "Necklace"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "How old was Jaime Lannister when he was knighted?",
+        "correct_answer": "15",
+        "incorrect_answers": ["14", "16", "17"]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What are the victims of the Others called?",
+        "correct_answer": "Wights",
+        "incorrect_answers": ["White Walkers", "Wargs", "Wildlings"]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "Who becomes King of Westeros after King Joffrey's death?",
+        "correct_answer": "Tommen",
+        "incorrect_answers": ["Stannis", "Renly", "Robb"]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Television",
+        "question": "What city did House Targaryen originally come from?",
+        "correct_answer": "Valyria",
+        "incorrect_answers": ["Braavos", "Meereen", "Qarth"]
+    }
+
+]
